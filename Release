@@ -1,8 +1,8 @@
-Origin: Github Cydia
-Label: Zielak
+Origin: Zielak's Repo
+Label: Zielak's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: Loading...
