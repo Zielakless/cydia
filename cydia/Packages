@@ -12,20 +12,6 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
 Package: com.zielak.customboard
 Version: 0.0.1-1
 Section: Tweaks
@@ -34,7 +20,7 @@ Depends: firmware (<10.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.zielak.customboard_0.0.1-1+debug_iphoneos-arm.deb
 Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+MD5sum: e9f021f8ab6c197edbda9e1b3488add0
 Description: CustomBoard made by Zielak
 Name: CustomBoard
 Author: Zielak <zielakless@gmail.com>
