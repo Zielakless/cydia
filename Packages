@@ -13,29 +13,15 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
 Package: com.zielak.kurwatest
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Zielak <zielakless@gmail.com>
-Depends: firmware (=10.3.3)
-Architecture: iphoneos-arm
-Filename: ./debs/com.zielak.kurwatest_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 15bc461227cb39045706b2e73cc25e2b
-Description: CustomBoard made by Zielak
-Name: CustomBoard
-Author: Zielak <zielakless@gmail.com>
-Depiction: https://zielakless.github.io/cydia/depictions/?p=com.zielak.springtomizesix
-
-Package: com.zielak.springtomizesix
 Version: 0.0.1-1
 Section: Tweaks
 Maintainer: Zielak <zielakless@gmail.com>
 Depends: firmware (=10.3.3)
 Architecture: iphoneos-arm
-Filename: ./debs/com.zielak.springtomizesix_0.0.1-1+debug_iphoneos-arm.deb
+Filename: ./debs/com.zielak.customboard_0.0.1-1+debug_iphoneos-arm.deb
 Size: 860
-MD5sum: 8bedc2ef413b252e4af034db2845d512
+MD5sum: 31e9f169fb6136bc9131596c622ec622
 Description: CustomBoard made by Zielak
-Name: CustomBoard
+Name: CustomBoard (iOS 10)
 Author: Zielak <zielakless@gmail.com>
-Depiction: https://zielakless.github.io/cydia/depictions/?p=com.zielak.springtomizesix
+Depiction: https://zielakless.github.io/cydia/depictions/?p=com.zielak.customboard
