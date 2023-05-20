@@ -20,7 +20,7 @@ Depends: firmware (=10.3.3)
 Architecture: iphoneos-arm
 Filename: ./debs/com.zielak.customboard_0.0.1-1+debug_iphoneos-arm.deb
 Size: 860
-MD5sum: 5ac5d3ccb4c90c00dde1db5a31956aa4
+MD5sum: 97c2f59f58d787ac849a538c0684c475
 Description: CustomBoard made by Zielak
 Name: CustomBoard
 Author: Zielak <zielakless@gmail.com>
