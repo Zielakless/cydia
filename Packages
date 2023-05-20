@@ -20,7 +20,7 @@ Depends: firmware (=10.3.3)
 Architecture: iphoneos-arm
 Filename: ./debs/com.zielak.springtomizesix_0.0.1-1+debug_iphoneos-arm.deb
 Size: 860
-MD5sum: c4ab3517fdf05607e79479426baea42e
+MD5sum: 8bedc2ef413b252e4af034db2845d512
 Description: CustomBoard made by Zielak
 Name: CustomBoard
 Author: Zielak <zielakless@gmail.com>
