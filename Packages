@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.zielak.customboard
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Zielak <zielakless@gmail.com>
+Depends: firmware (<10.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.zielak.customboard_0.0.1-1+debug_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: CustomBoard made by Zielak
+Name: CustomBoard
+Author: Zielak <zielakless@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
